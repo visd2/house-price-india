@@ -1,0 +1,28 @@
+{
+  "features": [
+    "city_enc",
+    "location_enc",
+    "total_sqft",
+    "bhk",
+    "price_per_sqft",
+    "Gymnasium",
+    "SwimmingPool",
+    "CarParking",
+    "LiftAvailable",
+    "PowerBackup",
+    "24X7Security",
+    "Resale"
+  ],
+  "use_log_transform": true,
+  "price_unit": "lakhs",
+  "cities": [
+    "Bangalore",
+    "Chennai",
+    "Delhi",
+    "Hyderabad",
+    "Kolkata",
+    "Mumbai"
+  ],
+  "inflation_factor": 1.35,
+  "version": "2.0_multicity"
+}

@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+joblib
+numpy
+pandas
+xgboost
+scikit-learn
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+sqlalchemy
+python-dotenv
+
+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

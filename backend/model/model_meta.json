@@ -1,0 +1,1 @@
+{"features": ["location_enc", "total_sqft", "bath", "balcony", "bhk", "price_per_sqft"], "use_log_transform": true, "price_unit": "lakhs"}
