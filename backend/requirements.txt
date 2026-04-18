@@ -9,6 +9,4 @@ python-jose[cryptography]
 passlib[bcrypt]
 python-dotenv
 sqlalchemy
-python-dotenv
-
-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
+requests
