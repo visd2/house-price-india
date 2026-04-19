@@ -1,9 +1,10 @@
 import { Routes, Route } from 'react-router-dom'
 import Navbar from './components/Navbar'
-import Home from './pages/Home'
+import Home    from './pages/Home'
 import Predict from './pages/Predict'
-import Market from './pages/Market'
+import Market  from './pages/Market'
 import Compare from './pages/Compare'
+import Pricing from './pages/Pricing'
 
 export default function App() {
   return (
@@ -14,6 +15,7 @@ export default function App() {
         <Route path="/predict" element={<Predict />} />
         <Route path="/market"  element={<Market />}  />
         <Route path="/compare" element={<Compare />} />
+        <Route path="/pricing" element={<Pricing />} />
       </Routes>
     </div>
   )
