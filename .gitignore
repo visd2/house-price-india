@@ -4,8 +4,8 @@ __pycache__/
 .env
 backend/.env
 frontend/.env
-*.pkl
-*.joblib
+# *.pkl
+*.jobl
 ml/data/raw/
 ml/data/processed/
 node_modules/
